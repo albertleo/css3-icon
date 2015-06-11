@@ -1,2 +1,2 @@
-<h1 style="color: red">css3-icon</h1>
+<h1>css3-icon</h1>
 
